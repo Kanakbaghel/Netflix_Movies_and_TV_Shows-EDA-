@@ -42,15 +42,6 @@ Netflix is one of the most popular media and video streaming platforms. They hav
 - IDENTIFY TRENDS, OUTLIERS, AND CORRELATIONS USING - - VISUALIZATIONS.
 - SUGGEST INITIAL HYPOTHESES FOR MODELING.
 - A WELL-DOCUMENTED JUPYTER NOTEBOOK WITH INSIGHTS AND VISUALS.
----
-### 🧪 Sample Entries
-
-Here, you 
-| show_id | type    | title                  | country       | release_year | rating | duration  |
-|---------|---------|------------------------|---------------|---------------|--------|-----------|
-| s1      | Movie   | Dick Johnson Is Dead   | United States | 2020          | PG-13  | 90 min    |
-| s2      | TV Show | Blood & Water          | South Africa  | 2021          | TV-MA  | 2 Seasons |
-| s3      | TV Show | Ganglands              | —             | 2021          | TV-MA  | 1 Season  |
 
 ---
 ## Reflections of Performing Tasks
