@@ -4,6 +4,7 @@
 ---
 
 ## Learning Outcomes Addressed
+
 - Understand the purpose and importance of Exploratory Data Analysis (EDA) in data science.
 - Apply statistical summaries and visualizations to describe the key features of a dataset.
 - Identify data patterns, correlations, and anomalies through graphical and quantitative methods.
@@ -11,7 +12,9 @@
 ---
 
 ## Introduction
+
 Netflix is one of the most popular media and video streaming platforms. They have over 8000 movies or tv shows available on their platform, as of mid-2021, they have over 200M Subscribers globally. This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc.
+
 ---
 
 ## Data Description
@@ -53,18 +56,20 @@ Here, you
 ## Reflections of Performing Tasks
 
 ---
-<img width="891" height="419" alt="image" src="https://github.com/user-attachments/assets/e74aa587-3ad7-436e-a2ec-9c5a8c51b5c5" />
+<img width="891" height="419" alt="image" src=" ---- "  />
 <p align="center"><strong>--- Retail Transactions Dataset ---</strong></p>
 
 ---
-<img width="881" height="631" alt="image" src="https://github.com/user-attachments/assets/7e3366b3-eb07-485c-8a58-9e0c4edbe61a" />
+<img width="881" height="631" alt="image" src="---" />
 <p align="center"><strong>--- Plot average spending per season ---</strong></p>
 
 ---
-<img width="871" height="732" alt="image" src="https://github.com/user-attachments/assets/44c893de-ece8-45f3-a688-0673e1e12f79" />
+<img width="871" height="732" alt="image" src="---" />
 <p align="center"><strong>--- Heatmap showing revenue by season and customer category ---</strong></p>
 ---
-## 🛠️ Tech Stack
+
+## Tech Stack
+
 | Tool        | Purpose                      |
 |-------------|------------------------------|
 | Python      | Core programming language    |
@@ -74,6 +79,7 @@ Here, you
 | Seaborn     | Statistical plots            |
 | Plotly      | Interactive charts (optional) |
 | Jupyter     | Notebook-based analysis      |
+
 ---
 > _“Data becomes meaningful when it tells a story that leads to better decisions.”_  
 <p align="center"><em>Crafted with ♥ by <strong>Kanak Baghel</strong> | <a href="http
