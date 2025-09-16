@@ -3,6 +3,10 @@
 
 ---
 
+<img width="4774" height="2500" alt="image" src="https://github.com/user-attachments/assets/283ad029-5c3e-40bb-9f93-90edbde7b22b" />
+
+---
+
 ## Learning Outcomes Addressed
 
 - Understand the purpose and importance of Exploratory Data Analysis (EDA) in data science.
