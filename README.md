@@ -51,16 +51,9 @@ Netflix is one of the most popular media and video streaming platforms. They hav
 ## Reflections of Performing Tasks
 
 ---
-<img width="891" height="419" alt="image" src=" ---- "  />
-<p align="center"><strong>--- Retail Transactions Dataset ---</strong></p>
+<img width="998" height="508" alt="image" src="https://github.com/user-attachments/assets/3ba4ac84-6536-440e-8cee-619ed34c8fd9" />
+<p align="center"><strong>--- Top 10 Countries Producing Netflix Content ---</strong></p>
 
----
-<img width="881" height="631" alt="image" src="---" />
-<p align="center"><strong>--- Plot average spending per season ---</strong></p>
-
----
-<img width="871" height="732" alt="image" src="---" />
-<p align="center"><strong>--- Heatmap showing revenue by season and customer category ---</strong></p>
 ---
 
 ## Tech Stack
